@@ -30,7 +30,7 @@ Before running the game, make sure you have:
 2. **Check Python Installation**  
    Open a terminal or command prompt and run:
    ```bash
-   python --version````
+   python --version
 
 **If Python is not installed, [Download Python](https://www.python.org/downloads/) and install it.**
 
