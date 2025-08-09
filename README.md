@@ -70,7 +70,7 @@ You can freely modify and share this game. Just give credit to the original deve
 
 ---
 
-## 👨‍💻 **Developer:** \deepxcodes [Joydeep Ghosh]
+## 👨‍💻 **Developer:** \deepxCodes [Joydeep Ghosh]
 
 *💡 If you want to turn this into a **web-based version** for online play, you’ll need to use **HTML, CSS, and JavaScript for frontend** and connect it with **Python (Flask/Django)** for backend logic.*
 
