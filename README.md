@@ -53,7 +53,6 @@ Before running the game, make sure you have:
 1. Player **X** always starts first.
 2. Click on a square to make your move.
 3. The game will declare a **Winner** or **Draw** when conditions are met.
-4. Use the **Restart** button to play again.
 
 ---
 
