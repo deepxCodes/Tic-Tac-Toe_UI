@@ -7,7 +7,7 @@ Perfect for 2 players on the same device — play directly on your desktop!
 
 ## ✨ Features
 - 🖥 **GUI-based**: No console needed, fully interactive game window.
-- 👥 **Two Player Mode**: Play with a friend.
+- 👤 **Single Player Mode**: Play with AI.
 - 🔄 **Restart Option**: Easily start a new game after finishing.
 - 🎯 **Winning Detection**: Automatically shows the winner or draw.
 
